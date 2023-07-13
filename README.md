@@ -19,6 +19,6 @@
 
 # Upcoming Projects:
 
-##Virtual Scavenger Game Hunt Android App - planning to work with CodePath's Android Development Program this upcoming Fall 2023 to develop a scavenger hunt game using AR cloud anchors at hints in physical locations.
+## Virtual Scavenger Game Hunt Android App - planning to work with CodePath's Android Development Program this upcoming Fall 2023 to develop a scavenger hunt game using AR cloud anchors at hints in physical locations.
 ### Initial Design Prototype: https://www.figma.com/file/q0L7cSuet8LvrqBbMp49aR/Virtual-Scavenger-Hunt?type=design&node-id=0%3A1&mode=design&t=4QytFpeScpATZn9j-1 
 
